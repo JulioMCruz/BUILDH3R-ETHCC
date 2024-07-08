@@ -31,5 +31,5 @@ By fostering an inclusive web3 ecosystem, ZKM would enable people worldwide to p
 
 This use case presents a comprehensive solution that promotes the widespread adoption of blockchain technology, while ensuring security, privacy, and interoperability across diverse platforms.
 
-![Proposal](./Proposal.png)
+![Proposal](Proposal.png)
     
